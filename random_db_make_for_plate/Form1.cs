@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
 
-//BU GİTHUB KONTROL CÜMLESİDİR------------------2
+//BU GİTHUB KONTROL CÜMLESİDİR------------------2332
 
 namespace random_db_make_for_plate
 {
